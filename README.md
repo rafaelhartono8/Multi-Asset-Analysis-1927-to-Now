@@ -1,10 +1,10 @@
+# 📈 Multi-Asset-Analysis-1927-to-Now
 
-# 📈 20 Asset Market Cube - Analisis Multi-Aset dengan Atoti
+## 20 Asset Market Cube - Analisis Multi-Aset dengan Atoti
 
-Proyek ini menggunakan **Atoti** untuk membuat kubus data (data cube) interaktif dari 20 instrumen keuangan berbeda. Data historis ditarik dari **Yahoo Finance** menggunakan `yfinance`, mencakup periode dari tahun **1927 hingga sekarang**.
+Proyek ini menggunakan **Atoti** untuk membuat kubus data (data cube) interaktif dari 20 instrumen keuangan berbeda. Data historis ditarik dari **Yahoo Finance** mencakup periode dari tahun **1927 hingga sekarang**.
 
 Tujuan dari analisis ini adalah untuk memahami perilaku berbagai kelas aset (Saham, Komoditas, Kripto, Indeks) melalui metrik seperti *return* harian, *return* kumulatif, *drawdown*, dan volatilitas.
-
 
 ## 🛠️ Teknologi yang Digunakan
 
